@@ -1,0 +1,23 @@
+body {
+  padding-top: 50px;
+}
+
+.jumbotron{
+	background: rgba(216,225,231,1);
+	background: -moz-linear-gradient(left, rgba(216,225,231,1) 0%, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 100%);
+	background: -webkit-gradient(left top, right top, color-stop(0%, rgba(216,225,231,1)), color-stop(0%, rgba(242,246,248,1)), color-stop(100%, rgba(181,198,208,1)));
+	background: -webkit-linear-gradient(left, rgba(216,225,231,1) 0%, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 100%);
+	background: -o-linear-gradient(left, rgba(216,225,231,1) 0%, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 100%);
+	background: -ms-linear-gradient(left, rgba(216,225,231,1) 0%, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 100%);
+	background: linear-gradient(to right, rgba(216,225,231,1) 0%, rgba(242,246,248,1) 0%, rgba(181,198,208,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d8e1e7', endColorstr='#b5c6d0', GradientType=1 );
+}
+
+footer{
+	background: #f4f4f4;
+	height: 40px;
+	text-align: center;
+	margin-top: 30px;
+	padding-top: 10px;
+	overflow: auto;
+}
